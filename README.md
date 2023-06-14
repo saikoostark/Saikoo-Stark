@@ -1,10 +1,4 @@
-- 👋 Hi, I’m @Saikoo-Stark
-- 👀 I’m interested in ...
-- 🌱 I’m currently learning ...
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
-
-<!---
-Saikoo-Stark/Saikoo-Stark is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+بص يسطا خش اعمل ريبو ع الجيتهب بتاعك وسميها نفس اسم اليوزر بتاعك وضيف readme file
+وحط فيه السطر ده
+<!-- Github status -->
+![saikoo-stark's GitHub stats](https://github-readme-stats-sigma-five.vercel.app/api?username=saikoo-stark&show_icons=true&theme=vision-friendly-dark&count_private=true)
